@@ -68,7 +68,7 @@ body {
   position: relative;
   /* padding-bottom: 15px; */
   opacity: 1;
-  transition: opacity 0.3s ease-in;
+/*   transition: opacity 0.3s ease-in; */
 }
 .card-img-wrapper {
   position: absolute;
